@@ -1,0 +1,20 @@
+waveform 1260
+
+angle theta =  1.26
+angle phi =  1.26
+masse 1 =  60.04 M_solaire
+masse 2 =  60.04 M_solaire
+spin 1 composante x =  0
+spin 1 composante y =  0
+spin 1 composante z =  0
+spin 2 composante x =  0
+spin 2 composante y =  0
+spin 2 composante z =  0
+distance de la source =  1795
+inclinaison du plan de la source =  0
+phi de reference =  0
+frequence (nbr de point par seconde) =  4096
+frequence minimum =  15
+chirp_mass =  52.26785582029929
+the SNR is = 14.618988280745208
+There is a GW
